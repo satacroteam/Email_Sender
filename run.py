@@ -155,5 +155,6 @@ if __name__ == '__main__':
                     args.s,
                     message,
                     pdf=args.a)
-
+        
+    # Disconnect from the SMTP server
     mailer.server_disconnection()
