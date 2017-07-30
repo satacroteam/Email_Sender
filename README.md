@@ -1,9 +1,11 @@
-# Email_Sender
-Python script to send mail  automatically .
+# Email Sender
 
 <p align="center">
   <img src="https://d1hoh05jeo8jse.cloudfront.net/media/google/gmail-icon.jpg"/>
 </p>
+
+## Description
+Python script to send mail  automatically .
 
 ## Instalation
 
