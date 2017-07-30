@@ -7,6 +7,11 @@ Python script to send mail  automatically .
 
 ## Instalation
 
+```bash
+git clone "https://github.com/satacroteam/Email_Sender"
+```
+
 ## Utilisation
+
 
 ## Help
