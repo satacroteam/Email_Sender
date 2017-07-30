@@ -5,7 +5,7 @@
 </p>
 
 ## Description
-Python script to send mail  automatically .
+This script allows you to send mails with attachment to a list of contacts automatically.
 
 ## Instalation
 
